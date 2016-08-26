@@ -1,0 +1,1 @@
+validators.bg.yml | C:\SymfonyProjects\TranslationBundleMarketPlace\app\Resources/translations

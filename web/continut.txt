@@ -1,0 +1,8 @@
+1Array
+(
+    [ro] => Cheie
+    [en] => Key
+    [bg] => 
+    [hu] => 
+    [pl] => 
+)

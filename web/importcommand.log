@@ -1,0 +1,13 @@
+*** Importing application translation files ***
+*** Using dir /vagrant/clientproject/app/Resources/translations to lookup translation files. ***
+
+Fatal error: Cannot use Symfony\Component\Validator\Constraints\True as True because 'True' is a special class name in /vagrant/clientproject/vendor/lexik/translation-bundle/Translation/Importer/FileImporter.php on line 19
+ERR:
+ERR:                                                                                                                         
+  [Symfony\Component\Debug\Exception\FatalErrorException]                                                                
+  Compile Error: Cannot use Symfony\Component\Validator\Constraints\True as True because 'True' is a special class name  
+                                                                                                                         
+
+lexik:translations:import [-c|--cache-clear] [-f|--force] [-g|--globals] [-l|--locales LOCALES] [-d|--domains [DOMAINS]] [-i|--case-insensitive] [-m|--merge] [-p|--import-path IMPORT-PATH] [-o|--only-vendors] [-a|--application-bundles] [-h|--help] [-q|--quiet] [-v|vv|vvv|--verbose] [-V|--version] [--ansi] [--no-ansi] [-n|--no-interaction] [-s|--shell] [--process-isolation] [-e|--env ENV] [--no-debug] [--] <command> [<bundle>]
+
+ERR:Segmentation fault

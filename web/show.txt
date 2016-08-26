@@ -1,0 +1,6 @@
+Array
+(
+    [id] => 674
+    [locale] => ro
+    [content] => MERGE
+)

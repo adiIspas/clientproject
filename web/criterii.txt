@@ -1,0 +1,5 @@
+Array
+(
+    [key] => translations.welcome
+    [domain] => messages
+)

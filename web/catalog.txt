@@ -1,0 +1,41 @@
+Symfony\Component\Translation\MessageCatalogue Object
+(
+    [messages:Symfony\Component\Translation\MessageCatalogue:private] => Array
+        (
+            [validators] => Array
+                (
+                    [translations.magazine] => Revista
+                    [translations.bun_venit_validators] => Bun venit validator
+                )
+
+        )
+
+    [metadata:Symfony\Component\Translation\MessageCatalogue:private] => Array
+        (
+            [validators] => Array
+                (
+                    [translations.magazine] => Array
+                        (
+                        )
+
+                    [translations.bun_venit_validators] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [resources:Symfony\Component\Translation\MessageCatalogue:private] => Array
+        (
+            [C:\wamp64\www\Translations-Client-App\app\Resources\translations\validators.ro.xliff] => Symfony\Component\Config\Resource\FileResource Object
+                (
+                    [resource:Symfony\Component\Config\Resource\FileResource:private] => C:\wamp64\www\Translations-Client-App\app\Resources\translations\validators.ro.xliff
+                )
+
+        )
+
+    [locale:Symfony\Component\Translation\MessageCatalogue:private] => ro
+    [fallbackCatalogue:Symfony\Component\Translation\MessageCatalogue:private] => 
+    [parent:Symfony\Component\Translation\MessageCatalogue:private] => 
+)

@@ -1,0 +1,76 @@
+Lexik\Bundle\TranslationBundle\Entity\TransUnit Object
+(
+    [id:protected] => 
+    [key:protected] => translations.translation
+    [domain:protected] => messages
+    [translations:protected] => Doctrine\Common\Collections\ArrayCollection Object
+        (
+            [elements:Doctrine\Common\Collections\ArrayCollection:private] => Array
+                (
+                    [0] => Lexik\Bundle\TranslationBundle\Entity\Translation Object
+                        (
+                            [id:protected] => 
+                            [transUnit:protected] => Lexik\Bundle\TranslationBundle\Entity\TransUnit Object
+ *RECURSION*
+                            [locale:protected] => ro
+                            [content:protected] => Traducere
+                            [file:protected] => 
+                            [createdAt:protected] => 
+                            [updatedAt:protected] => 
+                        )
+
+                    [1] => Lexik\Bundle\TranslationBundle\Entity\Translation Object
+                        (
+                            [id:protected] => 
+                            [transUnit:protected] => Lexik\Bundle\TranslationBundle\Entity\TransUnit Object
+ *RECURSION*
+                            [locale:protected] => en
+                            [content:protected] => Translation
+                            [file:protected] => 
+                            [createdAt:protected] => 
+                            [updatedAt:protected] => 
+                        )
+
+                    [2] => Lexik\Bundle\TranslationBundle\Entity\Translation Object
+                        (
+                            [id:protected] => 
+                            [transUnit:protected] => Lexik\Bundle\TranslationBundle\Entity\TransUnit Object
+ *RECURSION*
+                            [locale:protected] => bg
+                            [content:protected] => 
+                            [file:protected] => 
+                            [createdAt:protected] => 
+                            [updatedAt:protected] => 
+                        )
+
+                    [3] => Lexik\Bundle\TranslationBundle\Entity\Translation Object
+                        (
+                            [id:protected] => 
+                            [transUnit:protected] => Lexik\Bundle\TranslationBundle\Entity\TransUnit Object
+ *RECURSION*
+                            [locale:protected] => hu
+                            [content:protected] => 
+                            [file:protected] => 
+                            [createdAt:protected] => 
+                            [updatedAt:protected] => 
+                        )
+
+                    [4] => Lexik\Bundle\TranslationBundle\Entity\Translation Object
+                        (
+                            [id:protected] => 
+                            [transUnit:protected] => Lexik\Bundle\TranslationBundle\Entity\TransUnit Object
+ *RECURSION*
+                            [locale:protected] => pl
+                            [content:protected] => 
+                            [file:protected] => 
+                            [createdAt:protected] => 
+                            [updatedAt:protected] => 
+                        )
+
+                )
+
+        )
+
+    [createdAt:protected] => 
+    [updatedAt:protected] => 
+)

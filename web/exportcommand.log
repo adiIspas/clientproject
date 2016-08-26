@@ -1,0 +1,26 @@
+# Exporting "Resources/translations/messages.ro.yml":
+# OutputPath "/vagrant/clientproject/app/Resources/translations":
+# OutputFile "/vagrant/clientproject/app/Resources/translations/messages.ro.xliff":
+Output file: /vagrant/clientproject/app/Resources/translations/messages.ro.xliff
+5 translations to export: success
+# Exporting "Resources/translations/messages.en.yml":
+# OutputPath "/vagrant/clientproject/app/Resources/translations":
+# OutputFile "/vagrant/clientproject/app/Resources/translations/messages.en.xliff":
+Output file: /vagrant/clientproject/app/Resources/translations/messages.en.xliff
+5 translations to export: success
+# Exporting "Resources/translations/messages.bg.yml":
+# OutputPath "/vagrant/clientproject/app/Resources/translations":
+# OutputFile "/vagrant/clientproject/app/Resources/translations/messages.bg.xliff":
+Output file: /vagrant/clientproject/app/Resources/translations/messages.bg.xliff
+1 translations to export: success
+# Exporting "Resources/translations/messages.hu.yml":
+# OutputPath "/vagrant/clientproject/app/Resources/translations":
+# OutputFile "/vagrant/clientproject/app/Resources/translations/messages.hu.xliff":
+Output file: /vagrant/clientproject/app/Resources/translations/messages.hu.xliff
+1 translations to export: success
+# Exporting "Resources/translations/messages.pl.yml":
+# OutputPath "/vagrant/clientproject/app/Resources/translations":
+# OutputFile "/vagrant/clientproject/app/Resources/translations/messages.pl.xliff":
+Output file: /vagrant/clientproject/app/Resources/translations/messages.pl.xliff
+1 translations to export: success
+ERR:Segmentation fault

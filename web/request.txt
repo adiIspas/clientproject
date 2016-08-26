@@ -1,0 +1,298 @@
+Symfony\Component\HttpFoundation\Request Object
+(
+    [attributes] => Symfony\Component\HttpFoundation\ParameterBag Object
+        (
+            [parameters:protected] => Array
+                (
+                    [_controller] => Lexik\Bundle\TranslationBundle\Controller\TranslationController::newAction
+                    [_route] => lexik_translation_new
+                    [_route_params] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [request] => Symfony\Component\HttpFoundation\ParameterBag Object
+        (
+            [parameters:protected] => Array
+                (
+                    [lxk_trans_unit] => Array
+                        (
+                            [key] => translations.welcome
+                            [domain] => messages
+                            [translations] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [content] => asd
+                                            [locale] => ro
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [content] => asd
+                                            [locale] => en
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [content] => 
+                                            [locale] => bg
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [content] => 
+                                            [locale] => hu
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [content] => 
+                                            [locale] => pl
+                                        )
+
+                                )
+
+                            [save_add] => 
+                            [_token] => NsgSAPO6oN1ebhkt2A19m-nurX2ZkZvz2B1ZXNGMliY
+                        )
+
+                )
+
+        )
+
+    [query] => Symfony\Component\HttpFoundation\ParameterBag Object
+        (
+            [parameters:protected] => Array
+                (
+                )
+
+        )
+
+    [server] => Symfony\Component\HttpFoundation\ServerBag Object
+        (
+            [parameters:protected] => Array
+                (
+                    [DOCUMENT_ROOT] => C:\SymfonyProjects\TranslationBundleMarketPlace\web
+                    [REMOTE_ADDR] => 127.0.0.1
+                    [REMOTE_PORT] => 65172
+                    [SERVER_SOFTWARE] => PHP 5.6.16 Development Server
+                    [SERVER_PROTOCOL] => HTTP/1.1
+                    [SERVER_NAME] => 127.0.0.1
+                    [SERVER_PORT] => 8000
+                    [REQUEST_URI] => /app_dev.php/translation/new
+                    [REQUEST_METHOD] => POST
+                    [SCRIPT_NAME] => /app_dev.php
+                    [SCRIPT_FILENAME] => C:\SymfonyProjects\TranslationBundleMarketPlace\web\app_dev.php
+                    [PATH_INFO] => /translation/new
+                    [PHP_SELF] => /app_dev.php/translation/new
+                    [HTTP_HOST] => localhost:8000
+                    [HTTP_CONNECTION] => keep-alive
+                    [CONTENT_LENGTH] => 732
+                    [HTTP_CONTENT_LENGTH] => 732
+                    [HTTP_CACHE_CONTROL] => max-age=0
+                    [HTTP_ORIGIN] => http://localhost:8000
+                    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+                    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+                    [CONTENT_TYPE] => application/x-www-form-urlencoded
+                    [HTTP_CONTENT_TYPE] => application/x-www-form-urlencoded
+                    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+                    [HTTP_REFERER] => http://localhost:8000/app_dev.php/translation/new
+                    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+                    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,ro;q=0.6
+                    [HTTP_COOKIE] => Phpstorm-168218eb=98c87c3b-9c6d-49ea-b773-b5785fb5d5de; firstVisitTime=1467985503; PHPSESSID=9k5gl01k3u42g2homqlkks0dm3
+                    [REQUEST_TIME_FLOAT] => 1470924012.2055
+                    [REQUEST_TIME] => 1470924012
+                )
+
+        )
+
+    [files] => Symfony\Component\HttpFoundation\FileBag Object
+        (
+            [parameters:protected] => Array
+                (
+                )
+
+        )
+
+    [cookies] => Symfony\Component\HttpFoundation\ParameterBag Object
+        (
+            [parameters:protected] => Array
+                (
+                    [Phpstorm-168218eb] => 98c87c3b-9c6d-49ea-b773-b5785fb5d5de
+                    [firstVisitTime] => 1467985503
+                    [PHPSESSID] => 9k5gl01k3u42g2homqlkks0dm3
+                )
+
+        )
+
+    [headers] => Symfony\Component\HttpFoundation\HeaderBag Object
+        (
+            [headers:protected] => Array
+                (
+                    [host] => Array
+                        (
+                            [0] => localhost:8000
+                        )
+
+                    [connection] => Array
+                        (
+                            [0] => keep-alive
+                        )
+
+                    [content-length] => Array
+                        (
+                            [0] => 732
+                        )
+
+                    [cache-control] => Array
+                        (
+                            [0] => max-age=0
+                        )
+
+                    [origin] => Array
+                        (
+                            [0] => http://localhost:8000
+                        )
+
+                    [upgrade-insecure-requests] => Array
+                        (
+                            [0] => 1
+                        )
+
+                    [user-agent] => Array
+                        (
+                            [0] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+                        )
+
+                    [content-type] => Array
+                        (
+                            [0] => application/x-www-form-urlencoded
+                        )
+
+                    [accept] => Array
+                        (
+                            [0] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+                        )
+
+                    [referer] => Array
+                        (
+                            [0] => http://localhost:8000/app_dev.php/translation/new
+                        )
+
+                    [accept-encoding] => Array
+                        (
+                            [0] => gzip, deflate
+                        )
+
+                    [accept-language] => Array
+                        (
+                            [0] => en-US,en;q=0.8,ro;q=0.6
+                        )
+
+                    [cookie] => Array
+                        (
+                            [0] => Phpstorm-168218eb=98c87c3b-9c6d-49ea-b773-b5785fb5d5de; firstVisitTime=1467985503; PHPSESSID=9k5gl01k3u42g2homqlkks0dm3
+                        )
+
+                    [x-php-ob-level] => Array
+                        (
+                            [0] => 1
+                        )
+
+                )
+
+            [cacheControl:protected] => Array
+                (
+                    [max-age] => 0
+                )
+
+        )
+
+    [content:protected] => 
+    [languages:protected] => 
+    [charsets:protected] => 
+    [encodings:protected] => 
+    [acceptableContentTypes:protected] => 
+    [pathInfo:protected] => /translation/new
+    [requestUri:protected] => /app_dev.php/translation/new
+    [baseUrl:protected] => /app_dev.php
+    [basePath:protected] => 
+    [method:protected] => POST
+    [format:protected] => 
+    [session:protected] => Symfony\Component\HttpFoundation\Session\Session Object
+        (
+            [storage:protected] => Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage Object
+                (
+                    [bags:protected] => Array
+                        (
+                            [attributes] => Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag Object
+                                (
+                                    [name:Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag:private] => attributes
+                                    [storageKey:Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag:private] => _sf2_attributes
+                                    [attributes:protected] => Array
+                                        (
+                                            [_csrf/lxk_trans_unit] => NsgSAPO6oN1ebhkt2A19m-nurX2ZkZvz2B1ZXNGMliY
+                                            [_profiler_search_ip] => 
+                                            [_profiler_search_method] => 
+                                            [_profiler_search_url] => 
+                                            [_profiler_search_start] => 
+                                            [_profiler_search_end] => 
+                                            [_profiler_search_limit] => 10
+                                            [_profiler_search_token] => 
+                                        )
+
+                                )
+
+                            [flashes] => Symfony\Component\HttpFoundation\Session\Flash\FlashBag Object
+                                (
+                                    [name:Symfony\Component\HttpFoundation\Session\Flash\FlashBag:private] => flashes
+                                    [flashes:Symfony\Component\HttpFoundation\Session\Flash\FlashBag:private] => Array
+                                        (
+                                        )
+
+                                    [storageKey:Symfony\Component\HttpFoundation\Session\Flash\FlashBag:private] => _sf2_flashes
+                                )
+
+                        )
+
+                    [started:protected] => 1
+                    [closed:protected] => 
+                    [saveHandler:protected] => Symfony\Component\HttpFoundation\Session\Storage\Proxy\SessionHandlerProxy Object
+                        (
+                            [handler:protected] => SessionHandler Object
+                                (
+                                )
+
+                            [wrapper:protected] => 1
+                            [active:protected] => 1
+                            [saveHandlerName:protected] => files
+                        )
+
+                    [metadataBag:protected] => Symfony\Component\HttpFoundation\Session\Storage\MetadataBag Object
+                        (
+                            [name:Symfony\Component\HttpFoundation\Session\Storage\MetadataBag:private] => __metadata
+                            [storageKey:Symfony\Component\HttpFoundation\Session\Storage\MetadataBag:private] => _sf2_meta
+                            [meta:protected] => Array
+                                (
+                                    [u] => 1470924014
+                                    [c] => 1470061662
+                                    [l] => 0
+                                )
+
+                            [lastUsed:Symfony\Component\HttpFoundation\Session\Storage\MetadataBag:private] => 1470923701
+                            [updateThreshold:Symfony\Component\HttpFoundation\Session\Storage\MetadataBag:private] => 0
+                        )
+
+                )
+
+            [flashName:Symfony\Component\HttpFoundation\Session\Session:private] => flashes
+            [attributeName:Symfony\Component\HttpFoundation\Session\Session:private] => attributes
+        )
+
+    [locale:protected] => 
+    [defaultLocale:protected] => ro
+)

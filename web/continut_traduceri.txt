@@ -1,0 +1,17 @@
+Lexik\Bundle\TranslationBundle\Entity\File Object
+(
+    [id:protected] => 206
+    [domain:protected] => messages
+    [locale:protected] => ro
+    [extention:protected] => xliff
+    [path:protected] => Resources/translations
+    [hash:protected] => 91d643b12dec1b15bbf6ceb5936915df
+    [translations:protected] => Doctrine\Common\Collections\ArrayCollection Object
+        (
+            [elements:Doctrine\Common\Collections\ArrayCollection:private] => Array
+                (
+                )
+
+        )
+
+)
