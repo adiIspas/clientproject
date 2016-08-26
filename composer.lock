@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9b33547085fd44269cb854949727dd50",
-    "content-hash": "f7c113e002831c28675fee25f9834b50",
+    "hash": "abfd05e853082f2f67f3441deb0a4eb4",
+    "content-hash": "cfeeab827faf7c4a768ffddacb9ac8a4",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -862,21 +862,21 @@
         },
         {
             "name": "leaseweb/memcache-bundle",
-            "version": "v2.0.1",
+            "version": "v2.1.10",
             "target-dir": "Lsw/MemcacheBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeaseWeb/LswMemcacheBundle.git",
-                "reference": "c97703194a4afc13555f694d62e1d533f0a4acbc"
+                "reference": "e695603af5f19960851b4aeb6376fdd184fa667f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeaseWeb/LswMemcacheBundle/zipball/c97703194a4afc13555f694d62e1d533f0a4acbc",
-                "reference": "c97703194a4afc13555f694d62e1d533f0a4acbc",
+                "url": "https://api.github.com/repos/LeaseWeb/LswMemcacheBundle/zipball/e695603af5f19960851b4aeb6376fdd184fa667f",
+                "reference": "e695603af5f19960851b4aeb6376fdd184fa667f",
                 "shasum": ""
             },
             "require": {
-                "ext-memcached": ">=1.0",
+                "ext-memcache": ">=3.0",
                 "php": ">=5.3.2",
                 "symfony/framework-bundle": ">=2.1"
             },
@@ -912,7 +912,7 @@
                 "memcached",
                 "session"
             ],
-            "time": "2015-06-30 01:46:14"
+            "time": "2016-06-24 08:37:03"
         },
         {
             "name": "lexik/translation-bundle",

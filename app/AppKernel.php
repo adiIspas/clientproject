@@ -18,7 +18,8 @@ class AppKernel extends Kernel
             new AppBundle\AppBundle(),
             new Lexik\Bundle\TranslationBundle\LexikTranslationBundle(),
             new TestBundle\TestBundle(),
-            
+            new Lsw\MemcacheBundle\LswMemcacheBundle(),
+
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'), true)) {
